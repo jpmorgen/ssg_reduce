@@ -1,0 +1,19 @@
+[submodule "ssg"]
+	path = ssg
+	url = https://github.com/jpmorgen/ssg.git
+[submodule "ephem"]
+	path = ephem
+	url = https://github.com/jpmorgen/ephem.git
+[submodule "IDL_tokens"]
+	path = IDL_tokens
+	url = https://github.com/jpmorgen/IDL_tokens.git
+[submodule "sso"]
+	path = sso
+	url = https://github.com/jpmorgen/sso.git
+[submodule "util"]
+	path = util
+	url = https://github.com/jpmorgen/util.git
+[submodule "pfo"]
+	path = pfo
+	url = https://github.com/jpmorgen/pfo.git
+	branch = ssg_pfo
